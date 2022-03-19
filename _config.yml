@@ -1,5 +1,5 @@
 title : meeraproject
 url : ""
 markdown : kramdown
-remote_theme: academic-jekyll-theme
+remote_theme: jekyll-theme-yat
 
