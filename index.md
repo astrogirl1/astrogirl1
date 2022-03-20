@@ -4,4 +4,4 @@ title: "Home"
 ---
 Hi I am Meera and welcome to my website.
 
-":star: :star: :star: :star: what a wonderful person to work with" - coworker number 2.
+"⭐⭐⭐⭐ what a wonderful person to work with" - coworker number 2.
