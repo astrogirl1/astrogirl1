@@ -4,4 +4,9 @@ layout: default
 
 {{ content }}
 
-{% include post.html %}
+{% for post in site.data.settings.post %}
+<div class="row g-5 mb-5">
+  <div class="col-md-6">
+    <h5>{{ post.name }}</h5>
+    <p><a href="{{ site.github.url }}/post/{{ post.url }}">More info</a></p>
+  </div>

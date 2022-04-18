@@ -8,8 +8,8 @@ menu:
 
 courses:
 - {name: 'Maybe add courses here?'}
-more about me:
-- {name: Blog}
+post:
+- {name: 'Blog'}
 
 social:
 - {icon: 'github', link: 'https://github.com/astrogirl1'}
