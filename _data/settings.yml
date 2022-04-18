@@ -2,6 +2,7 @@ menu:
 - {name: 'home', url: '/index'}
 - {name: 'publications', url: '/publications'}
 - {name: 'courses', url: '/courses'}
+- {name: 'more about me', url: '/personal'}
 - {name: 'cv', url: '/cv'}
 - {name: 'contact', url: '/contact'}
 
